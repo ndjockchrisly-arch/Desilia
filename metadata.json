@@ -1,0 +1,6 @@
+{
+  "name": "AfriBaba",
+  "description": "B2B/B2C African E-Commerce platform with Mobile Money, Escrow, Group Buying, and WhatsApp negotiation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
